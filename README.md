@@ -5,5 +5,5 @@ Your can configure the bot by adjusting the settings in the JSON file. The templ
 ## Purpose
 Work on this project is for educational purposes only!
 ## Supporters
-I made a lot of improvements over the last months, but could not have done it without my clan and close friends who are playing with me on a daily basis.
-All of these guys are raw rebels like myself :D
+I made a lot of improvements over the last months, but could not have done it without my clan and close friends who are playing with me on a daily basis and helped me gather all the data.
+## Recommendations
